@@ -1,0 +1,16 @@
+//leetcode question 994
+//leetcode question 797
+//leetcode question 733
+//leetcode question 1791
+//leetcode question 841
+//leetcode question 133
+//leetcode question 1034
+//leetcode question 200
+//leetcode question 417
+//leetcode question 542
+//leetcode question 210
+//leetcode question 207
+//leetcode question 947
+//leetcode question 2316
+//leetcode question 1559
+//leetcode question 1135
